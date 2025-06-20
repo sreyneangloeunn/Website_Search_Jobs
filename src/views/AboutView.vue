@@ -61,7 +61,7 @@
 
 <script setup>
 import Card from '@/components/Card.vue'
-import Footer from '@/components/global/layout/footer.vue'
+import Footer from '@/components/global/layout/Footer.vue'
 </script>
 
 <style scoped>

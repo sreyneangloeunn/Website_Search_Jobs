@@ -1,7 +1,7 @@
 <script setup>
 import Card from '@/components/Card.vue'
 import Button from '@/components/global/Button.vue'
-import Footer from '@/components/global/layout/footer.vue'
+import Footer from '@/components/global/layout/Footer.vue'
 // import Navbar from '@/components/global/layout/navbar.vue'
 // import navbar from '@/components/global/layout/navbar.vue'
 
